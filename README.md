@@ -23,9 +23,8 @@ It showcases my **skills**, **projects**, and **experience** in web development,
 
 ---
 
-## 📂 Folder Structure
-
 🌍 Live Demo
+<a href="https://www.linkedin.com/in/wissem-benkhaled/">Link</a>
 
 👉 View Live Portfolio
 
