@@ -25,7 +25,7 @@ It showcases my **skills**, **projects**, and **experience** in web development,
 
 🌍 Live Demo
 
-👉<a href="https://www.linkedin.com/in/wissem-benkhaled/">Link</a>
+👉<a href="[https://www.linkedin.com/in/wissem-benkhaled/](https://wissembenkhaled.netlify.app/)">Link</a>
 
 
 📬 Contact
