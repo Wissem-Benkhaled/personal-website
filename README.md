@@ -23,14 +23,11 @@ It showcases my **skills**, **projects**, and **experience** in web development,
 
 ---
 
-🌍 Live Demo
-
-👉<a href="[https://www.linkedin.com/in/wissem-benkhaled/](https://wissembenkhaled.netlify.app/)">Link</a>
+🌍 Live Demo https://wissembenkhaled.netlify.app/
 
 
 📬 Contact
 
-If you’d like to collaborate or have a project idea, feel free to reach out:
 
 💌 Email: wissembenkhaled85@gmail.com
 
