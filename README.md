@@ -24,11 +24,9 @@ It showcases my **skills**, **projects**, and **experience** in web development,
 ---
 
 🌍 Live Demo
-<a href="https://www.linkedin.com/in/wissem-benkhaled/">Link</a>
 
-👉 View Live Portfolio
+👉<a href="https://www.linkedin.com/in/wissem-benkhaled/">Link</a>
 
-(replace with your actual link once deployed)
 
 📬 Contact
 
