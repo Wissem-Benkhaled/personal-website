@@ -1,0 +1,110 @@
+[
+  {
+    "name": "E-commerce Website",
+    "desc": "A fully functional e-commerce platform featuring product listings, shopping cart, and checkout system. Built using Java, XML, and Firebase.",
+    "image": "E-commerce",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/Ecommerce_Shop"
+    }
+  },
+  {
+    "name": "CRUD Operations Application",
+    "desc": "A web-based CRUD (Create, Read, Update, Delete) application that demonstrates database management and dynamic content updates using JavaScript, HTML, and CSS.",
+    "image": "CRUD",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/CRUDS"
+    }
+  },
+  {
+    "name": "Gemini Website",
+    "desc": "An interactive website that integrates AI-powered features through the Gemini API. Built with React.js, HTML, CSS, and JavaScript.",
+    "image": "Gemini",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/Chatbot-Gemini"
+    }
+  },
+  {
+    "name": "GYM Website (Version 1)",
+    "desc": "A responsive fitness website showcasing gym services, class schedules, and membership plans. Designed with HTML, CSS, and JavaScript.",
+    "image": "GYM1",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/GYM-avenir-sportif-El-Golaa"
+    }
+  },
+  {
+    "name": "GYM Website (Version 2)",
+    "desc": "An upgraded version of the GYM website with modern UI/UX and smooth animations. Built using React.js and Bootstrap.",
+    "image": "GYM2",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/GYM-version-2-"
+    }
+  },
+  {
+    "name": "Travel Landing Page",
+    "desc": "A beautifully designed landing page for a travel agency featuring destination highlights and call-to-action sections. Created with HTML, CSS, and JavaScript.",
+    "image": "Landing_Traval_Page",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled"
+    }
+  },
+  {
+    "name": "Sign Design Website (Version 1)",
+    "desc": "A creative portfolio website for a sign design studio, focusing on visual presentation and brand identity. Built using HTML, CSS, and JavaScript.",
+    "image": "SignDesign_1",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/SignUp-Login-Designs-main/tree/main/Design_1"
+    }
+  },
+  {
+    "name": "Sign Design Website (Version 2)",
+    "desc": "An enhanced version of the Sign Design website with improved layout and animations for a modern user experience. Developed with React.js.",
+    "image": "SignDesign_2",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/SignUp-Login-Designs-main/tree/main/Design_2"
+    }
+  },
+  {
+    "name": "Sign Design Website (Version 3)",
+    "desc": "A final polished version of the Sign Design portfolio, featuring responsive design, smooth transitions, and contact integration. Built with React.js and Tailwind CSS.",
+    "image": "SignDesign_3",
+    "category": "web development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/SignUp-Login-Designs-main/tree/main/Design_3"
+    }
+  },
+  {
+    "name": "Scraping Fotball Data",
+    "desc": "A Python project that scrapes football data from various sports websites using BeautifulSoup and requests libraries, storing the data in a structured format for analysis.",
+    "image": "scraping-matchs",
+    "category": "Python development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/data-scraping/tree/master/scraping%20web%20site%20of%20matchs"
+    }
+  },
+  {
+    "name": "Scraping boxing news Data",
+    "desc": "A web scraping project that collects the latest boxing news articles from multiple sources using Python's BeautifulSoup and requests libraries, organizing the information for easy access.",
+    "image": "scraping-boxing-news",
+    "category": "Python development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/data-scraping/tree/master/scraping-web-for-boxing-news-main"
+    }
+  },
+  {
+    "name": "Cookies Clicker Game With Selenium",
+    "desc": "A fun automation project that uses Selenium to play the popular Cookies Clicker game, demonstrating web automation techniques with Python.",
+    "image": "Cookies_Clicker_Selenium",
+    "category": "Python development",
+    "links": {
+      "code": "https://github.com/Wissem-Benkhaled/Automation-web-site"
+    }
+  }
+]
