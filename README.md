@@ -23,7 +23,7 @@ It showcases my **skills**, **projects**, and **experience** in web development,
 
 ---
 
-🌍 Live Demo https://wissembenkhaled.netlify.app/
+🌍 Live link https://wissembenkhaled.netlify.app/
 
 
 📬 Contact
